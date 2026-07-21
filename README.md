@@ -1,15 +1,6 @@
-# welcome to my profil  👋
+Hi 👋! My name is 9rinx and I'm a developer and reverse/security engineer, from morocoo .
 
-I'm **9rinx** 
+![Stats](https://github-readme-stats.vercel.app/api?username=9rinx&show_icons=true&theme=tokyonight)
 
-💻 Python Developer
-
-🔒 JavaScript Developer
-
-⚡ Security Research 
-
-my weebsite <a link =https://9rinx.xyz/> 
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9rinx&layout=compact&theme=tokyonight)
 

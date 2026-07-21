@@ -11,6 +11,9 @@ I'm **9rinx**.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=9rinx&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9rinx&layout=compact&theme=tokyonight)
+my weebsite <a link =https://9rinx.xyz/> 
+
+
+<img width="3840" height="2160" alt="ccc" src="https://github.com/user-attachments/assets/44833863-5575-408b-aba5-e041185e6a83" /> 
+

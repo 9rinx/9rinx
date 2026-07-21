@@ -75,9 +75,9 @@ to a GitHub personal access token -> replace the domain below with your own.
 ### 🤝 Contact
 
 <p>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/252516176813490176"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://t.me/9rinx"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:Oussamakhaouil90@gmail.com"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://github.com/9rinx.gpg"><img src="https://img.shields.io/badge/GPG%20Key-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" /></a>
 </p>
 

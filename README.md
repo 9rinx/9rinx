@@ -30,7 +30,7 @@ struct dev {
 
 <p>
   <img src="https://img.shields.io/badge/Ghidra-FF6B00?style=for-the-badge&logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA%20Pro-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA%20Pro-1A1A1A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/x64dbg-4D4D4D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/radare2-8B0000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GDB%20%2B%20pwndbg-2C3E50?style=for-the-badge&logoColor=white" />
@@ -61,18 +61,16 @@ struct dev {
 
 ---
 
-### 📊 Stats
+<!--
+STATS — re-enable once you've deployed your own github-readme-stats instance.
+Fork anuraghazra/github-readme-stats -> import to Vercel -> set env var PAT_1
+to a GitHub personal access token -> replace the domain below with your own.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=9rinx&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9rinx&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&langs_count=6" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=9rinx&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=9rinx&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&langs_count=6" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=9rinx&theme=dracula&hide_border=true&background=282A36" />
-</p>
-
----
+-->
 
 ### 🤝 Contact
 
@@ -84,5 +82,5 @@ struct dev {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=9rinx&style=flat-square&color=BD93F9" />
+  <a href="https://9rinx.xyz/">9rinx.xyz</a>
 </p>
